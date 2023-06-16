@@ -29,7 +29,7 @@ function Home() {
     >
       <div className="sm:pt-40 pt-20">
         <div className="flex justify-around items-center sm:flex-row flex-col">
-          <img data-aos="fade-right" src={portfolioImageHome} alt="home" className="w-96" />
+          <img data-aos="fade-right" src={portfolioImageHome} alt="home" className="w-96 mt-5" />
           <div className="m-5">
             <p
               data-aos="fade-left"
